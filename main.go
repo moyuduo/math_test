@@ -7,3 +7,7 @@ func Add(a, b int) int {
 func Add1(a int) int {
 	return a + 1
 }
+
+func Add2(a int) int {
+	return a + 2
+}
